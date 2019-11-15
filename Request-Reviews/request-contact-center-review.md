@@ -38,10 +38,6 @@
   1. Create a Product Video (with audio) that steps through the primary user flows.
   1. Review your Product Video with your DSVA Contact to make sure you've covered everything.
   1. Create a transcript of the audio from the Product Video. The transcript must be a Word document or a PDF.
-  1. Request that your Product Video be added to the official VA YouTube channel.
-      * Your Product Video will be unlisted but visible to people with the URL.
-      * [Follow the instructions here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/Demo%20Video%20Creation%20Process.md#4-request-that-the-video-be-posted-on-the-va-youtube-channel) to request the Product Video be added to the official VA YouTube channel.
-  1. Once you receive the email saying your video has been added, continue to [Request Contact Center Review](#request-contact-center-review).
 
 ## Request Contact Center Review
 
@@ -51,7 +47,7 @@
       * ```call center```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign the issue to: ```Chante Lantos-Swett```
+    * Assign the issue to: ```Chante Lantos-Swett``` and ```Kimberley Daniels```
     * Comment: Include the following information.
       * **Context**: Provide a high-level description of the functionality for which you're requesting this review, for example:
         * ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
